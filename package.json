@@ -1,0 +1,21 @@
+{
+  "name": "elixing-elixir",
+  "displayName": "Elixing Elixir",
+  "description": "Theme for Elixir",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Elixing Elixir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Elixing Elixir-color-theme.json"
+      }
+    ]
+  }
+}
